@@ -1,0 +1,11 @@
+
+<html>
+<body>  
+<p>Choose File to Scan for data abstraction</p>
+<form method="POST" class="post-form" enctype="multipart/form-data">  
+        {% csrf_token %}  
+        {{ form.as_p }}  
+        <button type="submit" class="save btn btn-default">Save</button>  
+</form>  
+</body>  
+</html>

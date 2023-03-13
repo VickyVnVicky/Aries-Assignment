@@ -1,0 +1,20 @@
+invoice_number:0001
+invoice_date:2022-03-15
+due_date:None
+Customer_name:SAMANTHA CRUZ
+customer_company_registrations:Unknown
+customer_address:WWW.THEREIAREE.COM
+language:en
+currency:USD
+supplier_name:Unknown
+supplier_company_registrations:Unknown
+reference_numbers:[]
+tax_amount:None
+tax_code:None
+tax_rate:None
+total_amount:31.2
+total_net:30.0
+total_tax:1.2
+line_item:['ITEM1', 'ITEM1', 'ITEM 1', 'ITEM1', 'ITEM 1', 'ITEM1']
+ITEM1:               | 1.00   | 5.00    | 5.00     |                  | ITEM1 
+ITEM 1:               | 1.00   | 5.00    | 5.00     |                  | ITEM 1 
